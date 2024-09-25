@@ -103,3 +103,4 @@ class CarroController {
             return res.status(500).send({ message: 'Erro ao deletar carro' });
         }
     }
+}
